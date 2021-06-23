@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/collegesMenuItem"
+        android:icon="@drawable/icon_college2"
+        android:title="Colleges" />
+    <item
+        android:id="@+id/majorsMenuItem"
+        android:icon="@drawable/icon_college"
+        android:title="Majors" />
+    <item
+        android:id="@+id/classesMenuItem"
+        android:icon="@drawable/icon_class2"
+        android:title="Classes" />
+    <item
+        android:id="@+id/teachersMenuItem"
+        android:icon="@drawable/icon_teacher"
+        android:title="Teachers" />
+    <item
+        android:id="@+id/studentsMenuItem"
+        android:icon="@drawable/icon_class"
+        android:title="Students" />
+    <item
+        android:id="@+id/reportsMenuItem"
+        android:icon="@drawable/icon_reports"
+        android:textStyle="bold"
+        android:title="Reports" />
+
+</menu>

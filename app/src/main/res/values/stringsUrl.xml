@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="urlReportBase">http://localhost</string>
+    <string name="urlReportBody">/ReportServer/Pages/ReportViewer.aspx?%2fStudomat%2f</string>
+    <string name="urlReportOptions"><![CDATA[&rs:Command=Render&rs:Format=PDF]]></string>
+</resources>
